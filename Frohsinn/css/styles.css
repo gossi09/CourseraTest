@@ -1,0 +1,45 @@
+
+body{
+	font-family: 'Comfortaa', cursive;
+	font-size: 16px;
+	color: black;
+	background-color: #F1FEDA;
+}
+
+.navbar-brand{
+	padding-top: 25px;
+}
+
+.navbar-brand h1{ /* Restaurant Name */
+	color: #7E5400;
+	font-family: 'Comfortaa', cursive;
+	font-size: 2em;
+	font-weight: bold;
+	line-height: 0.75;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	text-shadow: 1px 1px 1px #222;
+}
+
+.navbar-brand a:hover, .navabr-brand a:focus{
+	text-decoration: none;
+}
+
+.navbar-brand p span {
+	
+}
+
+#header-nav{
+	background-color: white;
+	border-radius: 0;
+	border: 0;
+	height: 120px;
+}
+
+#logo-img{
+	background: url('../Frohsinn_Haus_Logo_Klein.png') no-repeat;
+	height: 130px;
+	width: 130px;
+	margin: 0;
+}
