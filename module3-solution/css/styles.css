@@ -57,8 +57,13 @@ body {
 }
 /* END HEADER */
 
-#menuTitle{
+#contentTitle{
   font-size: 3em;
+
+}
+
+#menuTitle{
+  font-size: 2em;
   font-weight: bold;
   text-align: center;
 }
@@ -69,7 +74,7 @@ body {
 
 #menuText{
   color: #FFFFFF;
-  font-size: 2em;
+  font-size: 1.5em;
   margin-left: 15px;
 }
 
